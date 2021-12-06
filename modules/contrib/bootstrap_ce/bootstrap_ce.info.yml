@@ -1,0 +1,10 @@
+name: Bootstrap Carousel Entities
+type: module
+description: "Add field formatter for displaying entities and images in a simple Bootstrap Carousel."
+package: Field types
+core_version_requirement: ^8 || ^9
+
+# Information added by Drupal.org packaging script on 2021-10-25
+version: '2.0.0'
+project: 'bootstrap_ce'
+datestamp: 1635151637

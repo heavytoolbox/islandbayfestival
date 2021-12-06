@@ -1,0 +1,9 @@
+name: Webform Geolocation Googlegeocoder Element
+type: module
+description: 'Provides to create Webform Geolocation Googlegeocoder element'
+package: Geolocation
+core_version_requirement: ^8.8.0 || ^9
+
+dependencies:
+  - webform
+  - geolocation

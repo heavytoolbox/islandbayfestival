@@ -1,0 +1,4 @@
+webform:
+  version: VERSION
+  js:
+    js/webform-geolocation-googlegeocoder.js: {}
